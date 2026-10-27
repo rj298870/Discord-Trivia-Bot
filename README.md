@@ -5,6 +5,7 @@ This is a Discord bot that hosts trivia in your server. You answer with buttons,
 Try it
 
 Invite link: [https://discord.com/oauth2/authorize?client_id=1563678203728371832&permissions=0&integration_type=0&scope=bot+applications.commands](url)
+
 Demo server: [https://discord.gg/Kkm4HFsQa6](url)
 
 Commands
